@@ -15,6 +15,7 @@ gem 'coffee-rails', '~> 4.0.0'
 # gem 'therubyracer',  platforms: :ruby
 # adding bootstrap
 gem 'bootstrap-sass'
+gem 'devise', '~> 3.1.0.rc2'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
