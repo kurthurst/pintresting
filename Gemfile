@@ -16,6 +16,7 @@ gem 'coffee-rails', '~> 4.0.0'
 # adding bootstrap
 gem 'bootstrap-sass'
 gem 'devise', '~> 3.1.0.rc2'
+gem 'paperclip', github: 'thoughtbot/paperclip'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
